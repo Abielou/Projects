@@ -1,0 +1,92 @@
+{
+    ["backdropColor"] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 0.5,
+    },
+    ["controlledChildren"] = {
+        [1] = "NS1",
+        [2] = "NS1F",
+        [3] = "NS1T",
+        [4] = "NS1TF",
+        [5] = "Pom1",
+        [6] = "Pom1T",
+        [7] = "Pom1TF",
+        [8] = "AS1",
+        [9] = "AS1T",
+        [10] = "AS1TF",
+        [11] = "Havoc1",
+        [12] = "Havoc1P1",
+        [13] = "Havoc1T",
+        [14] = "Havoc1TP1",
+    },
+    ["borderBackdrop"] = "Blizzard Tooltip",
+    ["xOffset"] = 111.99931329161,
+    ["border"] = false,
+    ["yOffset"] = -43.999735228462,
+    ["anchorPoint"] = "CENTER",
+    ["borderSize"] = 16,
+    ["borderColor"] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 0.5,
+    },
+    ["actions"] = {
+        ["start"] = {
+        },
+        ["finish"] = {
+        },
+    },
+    ["borderOffset"] = 5,
+    ["selfPoint"] = "BOTTOMLEFT",
+    ["trigger"] = {
+        ["names"] = {
+        },
+        ["type"] = "aura",
+        ["debuffType"] = "HELPFUL",
+        ["unit"] = "player",
+    },
+    ["frameStrata"] = 1,
+    ["expanded"] = true,
+    ["untrigger"] = {
+    },
+    ["borderInset"] = 11,
+    ["numTriggers"] = 1,
+    ["animation"] = {
+        ["start"] = {
+            ["duration_type"] = "seconds",
+            ["type"] = "none",
+        },
+        ["main"] = {
+            ["duration_type"] = "seconds",
+            ["type"] = "none",
+        },
+        ["finish"] = {
+            ["duration_type"] = "seconds",
+            ["type"] = "none",
+        },
+    },
+    ["borderEdge"] = "None",
+    ["id"] = "PriorityDebuff / Abielou.io",
+    ["load"] = {
+        ["role"] = {
+            ["multi"] = {
+            },
+        },
+        ["class"] = {
+            ["multi"] = {
+            },
+        },
+        ["spec"] = {
+            ["multi"] = {
+            },
+        },
+        ["size"] = {
+            ["multi"] = {
+            },
+        },
+    },
+    ["regionType"] = "group",
+}
