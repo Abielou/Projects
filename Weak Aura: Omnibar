@@ -1,0 +1,6 @@
+
+Description: a remake of omnibar on firestorm 5.4.8 using Weak auras. 
+-------------------------------------------
+Model: 3 bars (1 interrupt/1 defensive cd/1 offensive cd)
+-------------------------------------------
+Limitations: Dynamic icon rotations.
